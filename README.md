@@ -7,7 +7,7 @@ Project modifies Linux by modifying the command line call *w*, which shows who i
 ![alt text](https://github.com/stprochnow64/OS-Project/blob/master/Screen%20Shot%202019-02-14%20at%201.43.35%20PM.jpg)
 
 # Rationale
-The *w* command is not very clear when reading directly from the output on the terminal. It does not easily give the user what they're looking for and also does not provide enough information that the user could possibly want. This modification will make the w call easier to understand while also providing more of a history of what the user has been working on.
+The *w* command is not very clear when reading directly from the output on the terminal. It does not easily give the user what they're looking for and also does not provide enough information that the user could possibly want. This modification will make the *w* call easier to understand while also providing more of a history of what the user has been working on.
 
 # Modules Affected
 The *w* command will be modified mainly, along with the history command in order for the *w* command to see the extensive list of what the user has been working on. The modification will also affect *who*, *uptime*, and *ps*.
