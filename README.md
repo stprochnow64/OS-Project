@@ -16,4 +16,3 @@ The *w* command will be the main module modified, along with the *history* comma
 - Include the current time and change it from military time to a 12 hour clock. 
 - Color code different output columns. 
 - Label each column more clearly so user can better understand the output generated. 
-- 
