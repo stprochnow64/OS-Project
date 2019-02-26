@@ -1,0 +1,18 @@
+Flora/Jay/Prochnow
+
+CMSI 387 Operating Systems
+	Semester Project
+===================================
+
+OK, this time, fer sure....
+
+This is a very good idea!  I like the fact that you are going to
+integrate your modification with other commands.  Particularly, the
+"history" command keeps a log for the user in the local directory.
+You can see that with the "ls -al" command that shows "hidden" files
+that start with a dot.  You'll see a file named ".bash_history" and
+you can probably exploit that for your purposes.
+
+
+Project approved.  Good work and good luck!
+
