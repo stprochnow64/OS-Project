@@ -14,5 +14,3 @@ We will not be producing any new modules for this project.
 Command line options:
 
 *-h* Removes the header from the output
-*-u* Ignores the username of the current process
-*-s* Creates short format
