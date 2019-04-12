@@ -15,4 +15,4 @@ Command line options:
 
 *w* with no other commands following will output the header and relevent information in a clear table 
 
-*-h*: Removes the header from the output (defeats the purpose of our entire project but we're keeping it so there's another command line option)
+*w -h*: Removes the header from the output (defeats the purpose of our entire project but we're keeping it so there's another command line option)
