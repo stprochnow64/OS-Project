@@ -13,4 +13,4 @@ We will not be producing any new modules for this project.
 ## 2.4 - Explanation of All Command Line Options Implemented
 Command line options:
 
-*-h* Removes the header from the output
+*-h* Removes the header from the output (defeats the purpose of our entire project but we're keeping it so there's another command line option)
