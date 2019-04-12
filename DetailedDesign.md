@@ -8,6 +8,6 @@ We will not be producing any new modules for this project.
 
 ## 2.3 - Class Diagram of Affected Modules
 
-![alt text]()
+![alt text](Screen Shot 2019-04-11 at 6.48.43 PM.png)
 
 ## 2.4 - Explanation of All Command Line Options Implemented
